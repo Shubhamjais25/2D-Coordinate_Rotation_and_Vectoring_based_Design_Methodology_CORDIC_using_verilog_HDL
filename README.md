@@ -1,0 +1,2 @@
+# 2D-Coordinate_Rotation_and_Vectoring_based_Design_Methodology_CORDIC_using_verilog_HDL
+ This repository implements the 2D Coordinate Rotation Digital Computer (CORDIC) algorithm using Verilog HDL. CORDIC efficiently computes trigonometric, hyperbolic, and exponential functions using shift-add operations. Includes Verilog modules, testbenches, and simulation results, optimized for FPGA/ASIC designs with minimal hardware complexity.
